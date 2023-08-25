@@ -22,7 +22,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 
-git clone https://github.com/yourusername/social-media-apis.git
+git clone https://github.com:JohananOppongAmoateng/Social-Media-App-Apis.git
 
 
 2. Navigate to the project directory:
@@ -73,7 +73,7 @@ The API will be available at http://localhost:8000.
 
 ## API Documentation
 
-The API documentation can be found at http://localhost:8000/docs/. This documentation is generated automatically by DRF and provides detailed information about each endpoint, including request and response formats, authentication requirements, and more.
+The API documentation can be found at http://localhost:8000/swagger/. This documentation is generated automatically by DRF and provides detailed information about each endpoint, including request and response formats, authentication requirements, and more.
 
 ## License
 
